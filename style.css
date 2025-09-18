@@ -52,7 +52,7 @@ form label {
 form input, form textarea {
     width: 300px;
     padding: 8px;
-    border: 1px solid #ccc;
+    border: 10px solid #ccc;
     border-radius: 4px;
 }
 
